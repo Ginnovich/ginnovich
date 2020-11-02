@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Regina.
+### Hi there 🐾, I'm Regina.
 I'm currently working as junior front-end developer.
 
 My latest work examples
